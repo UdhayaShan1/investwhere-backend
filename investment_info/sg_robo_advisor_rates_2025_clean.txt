@@ -1,0 +1,118 @@
+
+Robo-Advisor Rates (Singapore, 2025)
+
+Syfe Cash+ Flexi (SGD): 2.8–2.9% p.a. (after fees)
+Syfe Cash+ Flexi (USD): 4.2–4.3% p.a. (after fees)
+Syfe Cash+ Guaranteed: up to 1.8% p.a. (SGD guaranteed), 4.35% p.a. (USD guaranteed)
+StashAway General Investing Q1 2025: +2.4% USD (0.6% SGD); 12m: +7.3% USD (6.8% SGD)
+Endowus CPF 100% Equity Portfolio: –2.7% (April 2025)
+
+Syfe Portfolios
+
+Core Portfolios
+- Equity100: 100% global equities, avg. annualised return 8.55% p.a. (8 years)
+- Growth: tilted towards growth stocks, avg. annualised return 7.21% p.a. (8 years)
+- Balanced: equities, bonds & gold, avg. annualised return 4.71% p.a. (8 years)
+- Defensive: lower-volatility mix, avg. annualised return 3.43% p.a. (8 years)
+
+Income+ Portfolios
+- Preserve: +2.0% in Q1 2025, 5.3% annualised distribution yield
+- Enhance: +2.1% in Q1 2025, 5.5% annualised distribution yield
+
+REIT+ Portfolios
+- 100% S-REITs: +3.1% in Q1 2025, 6.0% p.a. dividend yield
+
+Thematic Portfolios
+- China Growth: +7.6% in Q1 2025
+- Disruptive Tech, Healthcare Innovation, ESG & Clean Energy: subdued Q1, long-term megatrends
+
+Specialised Portfolios
+- Protected Portfolio: –0.3% in Q1, –0.4% drawdown in April
+
+Cash Management
+- Cash+ Flexi (SGD): +0.7% in Q1 2025
+- Cash+ Flexi (USD): +1.1% in Q1 2025
+- Cash+ Guaranteed (SGD): 1.8–2.0% p.a.
+- Cash+ Guaranteed (USD): 4.35% p.a.
+- Cash+ Flexi (SRS): 2.8–2.9% p.a. (net), 3.13% gross
+
+Endowus Portfolios
+
+Flagship Cash/SRS Portfolios
+- 100% Equity: –2.6% in April 2025, 10Y annualised 8.47% p.a. (volatility 12.37%)
+- 100% Fixed Income: +0.1% in April 2025
+
+Flagship CPF Portfolios
+- 100% Equity: –2.7% in April 2025
+- 100% Fixed Income: +0.7% in April 2025
+
+Income Portfolios
+- Stable Income Portfolio: flat in April 2025
+
+Cash Smart Portfolios
+- Cash Smart: 2.4–3.5% p.a. (as of 30 Apr 2025)
+
+Factor Portfolios
+- Dimensional-managed, tilt to value, profitability & size in equities; credit & term in fixed income
+
+Fund Smart
+- Access to 400+ unit trusts, 0% sales fees, 100% trailer fee cashback
+
+CPF Interest Rates & Policies
+
+Ordinary Account (OA): 2.5% p.a. (Q2 & Q3 2025)
+Special/MediSave/Retirement (SMRA): 4.0% p.a. (Q2 & Q3 2025)
+
+Extra Interest:
+- <55: +1% on first S$60k (max S$20k OA)
+- ≥55: +2% first S$30k, +1% next S$30k (max S$20k OA)
+
+CPF Contribution Rates (Jan 2025):
+- ≤55: 37% (20% employee, 17% employer)
+- 56–60: 32.5%
+- 61–65: 23.5%
+- 66–70: 16.5%
+- ≥70: 12.5%
+- Ordinary Wage Ceiling: S$7,400/month
+
+Singapore Government Securities
+
+- 6M T-Bill: 2.05% cut-off (5 Jun 2025), median 1.99%
+- 1Y T-Bill: 2.29% cut-off (16 Apr 2025)
+- 10Y SGS: 2.42% (28 May 2025)
+
+S-REITs Overview
+
+- Avg. 12M Yield: 7.3% (10 Apr 2025)
+- Weighted Avg. TTM Yield: 6.27% (mid-May 2025)
+
+High-Yield REITs:
+- IREIT Global: 11.51%
+- ESR REIT: 9.59%
+- Sasseur REIT: 9.50%
+- Elite UK REIT: 9.26%
+- United Hampshire REIT: 9.02%
+
+Gearing Ratios:
+- Manulife US REIT: 59.4%
+- EC World REIT: 56.8%
+- Prime US REIT: 46.8%
+- Lippo Malls Indo Retail: 44.2%
+- Keppel Pacific Oak US REIT: 43.7%
+- Suntec REIT: 43.4%
+
+Market Indices
+
+- Straits Times Index (STI): ATH close 3,981.57 (27 Mar 2025), ATH intraday 4,005.18 (28 Mar 2025)
+
+Additional Considerations
+
+Singapore Savings Bonds (SSB): 10Y avg. return 2.49% p.a. (Jun 2025)
+Fixed Deposits: Best 6M FD rate 2.35% p.a. (early Jun 2025)
+Money Market Funds: yields >2.05% p.a.
+
+Contextual Notes
+
+- CPF interest reviewed quarterly, next update 1 Jul 2025: 4.0% p.a.
+- MAS policy statements monthly/quarterly
+- Use above figures to ground GPT-4 in current Singapore rates

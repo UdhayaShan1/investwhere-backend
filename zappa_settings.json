@@ -1,7 +1,7 @@
 {
   "dev": {
     "app_function": "app.app",
-    "exclude": ["boto3", "dateutil", "botocore", "s3transfer", "concurrent"],
+    "exclude": ["authorizer-package", "venv", "boto3", "dateutil", "botocore", "s3transfer", "concurrent"],
     "profile_name": null,
     "project_name": "flask-backend",
     "runtime": "python3.13",
